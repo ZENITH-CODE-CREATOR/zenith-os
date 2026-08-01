@@ -17,3 +17,11 @@ Important:
 If the website shows an old version:
 - Press Ctrl + F5 on computer.
 - On phone, clear browser cache or open an incognito/private tab.
+
+
+V19 updates:
+- Better light mode readability.
+- More UI labels use the selected language.
+- Training library now has unique instructions for tricks.
+- Food recipes now have unique ingredients, preparation, sport benefit and best moment.
+Upload index.html, app.js, styles.css, firebase-notes.js and README_UPLOAD.txt together.

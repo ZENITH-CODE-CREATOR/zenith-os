@@ -1,16 +1,1 @@
 html,body{margin:0;background:#010204;color:#fff;overflow:hidden;font-family:Inter,system-ui,Arial,sans-serif}button,input,textarea,select{font:inherit}.scroll::-webkit-scrollbar{width:8px;height:8px}.scroll::-webkit-scrollbar-track{background:#050509;border-radius:12px}.scroll::-webkit-scrollbar-thumb{background:#3f3f5f;border-radius:12px}.scroll::-webkit-scrollbar-thumb:hover{background:#6366f1}.light{background:#f4f7fb;color:#10111a}.light .panel{background:#fff!important;color:#10111a!important;border-color:#d9e1ee!important}.light input,.light textarea,.light select{background:#f2f4f8!important;color:#10111a!important}.light .muted{color:#5b6577!important}.btn{background:#4f46e5;color:#fff;font-weight:900;border-radius:18px;padding:12px 18px;transition:.15s}.btn:hover{background:#6366f1}.btn2{background:#0ea5e9;color:#00111d}.danger{background:#ef4444;color:white}.green{background:#22c55e;color:#052e16}.amber{background:#f59e0b;color:#111}.safe{padding-bottom:env(safe-area-inset-bottom)}.panel{background:#0a0a0f;border:1px solid rgba(255,255,255,.06);border-radius:30px;padding:24px}.input{width:100%;padding:14px 16px;border-radius:18px;background:#000;border:1px solid rgba(255,255,255,.12);color:#fff;font-weight:800;outline:none}.title{font-size:44px;line-height:1.05;font-weight:950;letter-spacing:-.03em}.tabactive{background:#4f46e5!important;color:white!important}.breath{transition:transform 4s ease-in-out,box-shadow 4s ease-in-out}
-
-
-/* V19 light mode readability fixes */
-.light{background:#f4f7fb!important;color:#111827!important;}
-.light body,.light .title,.light h1,.light h2,.light h3,.light h4,.light p,.light span,.light label,.light b,.light li{color:#111827;}
-.light .panel{background:#ffffff!important;color:#111827!important;border-color:#cbd5e1!important;box-shadow:0 10px 30px rgba(15,23,42,.08)}
-.light .input,.light input,.light textarea,.light select{background:#f8fafc!important;color:#111827!important;border-color:#cbd5e1!important;}
-.light .muted,.light .text-zinc-500,.light .text-zinc-400{color:#374151!important;}
-.light [class*="bg-black"]{background:#eef2ff!important;color:#111827!important;border-color:#cbd5e1!important;}
-.light [class*="bg-[#03020A]"]{background:#ffffff!important;color:#111827!important;}
-.light [class*="bg-[#020108]"]{background:#ffffff!important;color:#111827!important;}
-.light [class*="border-white"]{border-color:#cbd5e1!important;}
-.light .tabactive{background:#4f46e5!important;color:#ffffff!important;}
-.light .btn{color:#ffffff!important;}
-.light .btn2,.light .amber,.light .green{color:#02111f!important;}
